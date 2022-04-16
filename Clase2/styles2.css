@@ -13,8 +13,6 @@
     align-items: center;
     justify-content: center;
     align-content: center;
-    background-image: url(./img/tv-show-rick-and-morty-mr-meeseeks-rick-and-morty-wallpaper-preview.jpg);
-  
   }
 
 
@@ -23,7 +21,7 @@
     display: flex;
     width: 450px;
     height: 500px;
-    background-color: wheat;
+    background-color: gray;
     border: 2px white solid;
     align-content: center;
     justify-content: space-evenly;
